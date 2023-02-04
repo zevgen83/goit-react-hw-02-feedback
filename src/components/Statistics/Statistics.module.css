@@ -1,0 +1,8 @@
+.Statistics {
+  margin-top: 0;
+  font-size: 14px;
+}
+
+.Statistics:not(last-child) {
+  margin-bottom: 5px;
+}
